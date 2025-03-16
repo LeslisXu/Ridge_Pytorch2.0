@@ -1,7 +1,7 @@
 # Ridge_Pytorch2.0
 An implementation of Ridge Regression using Pytorch 2.0.
 
- This code was Imspired by https://gist.github.com/myazdani/3d8a00cf7c9793e9fead1c89c1398f12, which was written in Pytorhch 1.0 Framework.
+ This code was imspired by https://gist.github.com/myazdani/3d8a00cf7c9793e9fead1c89c1398f12, which was written using Pytorch 1.0 Framework.
 
 For test:
 ```python
